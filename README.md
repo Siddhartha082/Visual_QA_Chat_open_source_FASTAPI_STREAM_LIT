@@ -34,7 +34,7 @@ Deep understanding of how to utilize the ViLT model for visual question answerin
 
 ![image](https://github.com/Siddhartha082/Visual_QA_Chat_open_source_FASTAPI_STREAM_LIT/assets/110781138/3b5000e1-f7a9-46e1-9c3d-7a4c732a126e)
 
-#Now USING FASTAPI  APP.PY file 
+#Now USING FASTAPI  API.PY file 
 
 ![image](https://github.com/Siddhartha082/Visual_QA_Chat_open_source_FASTAPI_STREAM_LIT/assets/110781138/83777709-51b7-482d-84c6-e09a9fda7441)
 
