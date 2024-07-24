@@ -2,6 +2,8 @@
 
 #NO OPENAI 
 
+#APP Link- https://visualappchatopensourcefastapiapp-u2aa6a2brdrbilkg5f4xwd.streamlit.app/
+
 #BIT OF UNDERSTANDING ---
 
 Visual Question Answering (VQA) system using state-of-the-art deep learning models  Iy will explore how to leverage the power of the Hugging Face's ViLT (Vision-and-Language Transformer) model to answer questions about images.
